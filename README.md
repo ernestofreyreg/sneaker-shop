@@ -1,2 +1,3 @@
 # sneaker-shop
-This is my Sneaker Shop
+
+This is an awesome app
